@@ -79,3 +79,22 @@ python api/chatbot.py
 ```
 
 The chatbot interface will launch and be available at `http://127.0.0.1:7860`. You can now open this URL in your web browser to interact with the ZUS Coffee Assistant. 
+
+Below are pictures showing how the endpoints are called : 
+1. Product Endpoint
+![Products  endpoint](https://github.com/user-attachments/assets/aeded850-60fd-4be3-82f9-030e7130f0b9)
+![2nd product](https://github.com/user-attachments/assets/2f3f18b9-9313-473c-a827-194deb4a440f)
+
+2. Outlets Endpoint
+![Outlets ](https://github.com/user-attachments/assets/37f2e2e5-1676-4f3f-9e74-baa398dfc075)
+
+3.Calculator Tool
+![calculator tool](https://github.com/user-attachments/assets/c1bd054b-439b-4a17-be99-5f0dbf29b8d5)
+
+4.Agentic Planner
+![Aplanner](https://github.com/user-attachments/assets/76c8579f-45ac-4a42-9fae-d27855004bf0)
+
+![2nd planner](https://github.com/user-attachments/assets/f4bf0fc4-f6bc-4768-a6d9-f3539d04dcd2)
+
+
+
